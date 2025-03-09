@@ -1,7 +1,10 @@
 streamlit
-opencv-python
 imutils
 numpy
 opencv-python-headless
 libgl1-mesa-glx
+<<<<<<< HEAD
 scipy
+=======
+scipy
+>>>>>>> 485acb568cf5d177633477dfef50c35424499001
